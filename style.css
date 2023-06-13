@@ -1,0 +1,28 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@300;400;500;600;700;800;900&family=Nunito+Sans:wght@200;300;400;500;600;700;800;900;1000&display=swap');
+
+body {
+    font-family: 'Merienda', cursive;
+ }
+ .post{
+  width: 180px;
+  height: 40px;
+  /* background-color: aqua; */
+ }
+
+.postimg{
+  width: 100%;
+
+}
+h1{
+ font-size:2.5rem !important;
+ font-family: 'Merienda', cursive;
+ text-transform: capitalize;
+}
+h4{
+  font-size: 1.3rem !important;
+  font-family: 'Nunito Sans', sans-serif ;
+  text-transform: capitalize;
+  
+}
